@@ -1,11 +1,11 @@
 Summary:	IPC library for non-persistent servers
 Name:		libassuan
-Version:	2.1.3
+Version:	2.2.0
 Release:	1
 License:	LGPL v2.1+
 Group:		Libraries
 Source0:	ftp://ftp.gnupg.org/gcrypt/libassuan/%{name}-%{version}.tar.bz2
-# Source0-md5:	b5373485419a7e2c23457d20811caabe
+# Source0-md5:	a104faed3e97b9c302c5d67cc22b1d60
 URL:		http://www.gnupg.org/related_software/libassuan/
 BuildRequires:	autoconf
 BuildRequires:	automake
